@@ -16,7 +16,6 @@ body{
     right: 10px;
     left: 10px;
 
-    
 }
 
 .btn{
@@ -24,6 +23,7 @@ body{
     justify-content: center;
     align-items: center;
     column-gap: 50px;
+    transform: scale(0.7);
 }
 
 .white{
@@ -99,10 +99,34 @@ body{
 }
 
 .pink{
-    background-color: pink;
+    background-color: #ff69b4;
     color: #000;
     border: 1px solid #fff;
     padding: 10px 30px;
     border-radius: 15px;
     cursor: pointer;
+}
+
+footer {
+    color: #525252;
+    font-size: 15px;
+    margin-bottom: -25px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-weight: 600;
+    z-index: 999;
+    margin-top: 30px;
+    text-decoration: none;
+    width: 100%;
+  
+}
+
+footer p a{
+    color: #525252;
+    text-decoration: none;
+}
+
+@media (max-width: 1080px) {
+   
 }

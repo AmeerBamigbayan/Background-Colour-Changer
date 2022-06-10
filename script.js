@@ -11,25 +11,25 @@ function changebackground3(){
 }
 
 function changebackground4(){
-	document.body.style.backgroundColor = 'white';
+	document.body.style.backgroundColor = 'green';
 }
 
 function changebackground5(){
-	document.body.style.backgroundColor = 'white';
+	document.body.style.backgroundColor = 'blue';
 }
 
 function changebackground6(){
-	document.body.style.backgroundColor = 'white';
+	document.body.style.backgroundColor = 'yellow';
 }
 
 function changebackground7(){
-	document.body.style.backgroundColor = 'white';
+	document.body.style.backgroundColor = 'orange';
 }
 
 function changebackground8(){
-	document.body.style.backgroundColor = 'white';
+	document.body.style.backgroundColor = 'purple';
 }
 
 function changebackground9(){
-	document.body.style.backgroundColor = 'white';
+	document.body.style.backgroundColor = '#ff69b4';
 }
