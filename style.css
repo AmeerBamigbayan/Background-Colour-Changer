@@ -128,5 +128,10 @@ footer p a{
 }
 
 @media (max-width: 1080px) {
-   
+   .btn{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 30px;
+   }
 }
